@@ -2,13 +2,13 @@
 
 1. In boxing the weight class of a boxer is decided as per the following table. Write a program that receives weight as input and prints out the boxer’s weight class.
 
-| Boxer Class    | Weight in Pounds |
-| -------------- | ---------------- |
-| Fly Weight     | <115             |
-| Bantam Weight  | 115-121          |
-| Feather Weight | 122-153          |
-| Middle Weight  | 154-189          |
-| Heavy Weight   | >=190            |
+   | Boxer Class    | Weight in Pounds |
+   | -------------- | ---------------- |
+   | Fly Weight     | <115             |
+   | Bantam Weight  | 115-121          |
+   | Feather Weight | 122-153          |
+   | Middle Weight  | 154-189          |
+   | Heavy Weight   | >=190            |
 
 2. Using conditional operators determine:
    1. Whether the character entered through the keyboard is a lower-case alphabet or not.
